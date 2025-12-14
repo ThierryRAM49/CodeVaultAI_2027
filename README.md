@@ -25,10 +25,7 @@ Dédié à ceux qui croient encore aux rêves.
 
 ## 🌍 En ligne
 
-Disponible ici en me contactant pour plus d'infos:  
-[https://sergio49290.github.io/CodeVaultAI_2027](https://sergio49290.github.io/CodeVaultAI_2027)
-[https://ThierryRAM49290.github.io/CodeVaultAI_2027](https://ThierryRAM49290.github.io/CodeVaultAI_2027)
-
+Disponible ici en me contactant pour plus d'infos
 ## 💌 Contact
 
 📧 sergio49290@gmail.com
